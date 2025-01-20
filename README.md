@@ -61,10 +61,6 @@ Ensure these files are available in the working directory.
 - The clustering functionality is implemented but currently commented out in the notebook. Uncomment and adjust parameters as needed to enable clustering.
 - Ensure the dataset file paths are correctly specified.
 
-### Limitations
-- The notebook does not include automated profiling (e.g., `pandas_profiling`) as initially described.
-- Predictive modeling and deeper segmentation analyses are not implemented but can be extended in future iterations.
-
 ### Credits
 - Traffic incident data from the MMDA Traffic Incident dataset.
 - Flood data from the AEGIS Dataset on Kaggle.
